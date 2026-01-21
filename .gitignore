@@ -1,0 +1,14 @@
+# py virtual environments
+.venv
+venv
+.pipvenv
+pipvenv
+
+# env files
+*.env
+*.env.local
+*.envfile
+
+script/config.bat
+script/uv_generate_venv.bat
+script/pip_generate_pipenv.bat
